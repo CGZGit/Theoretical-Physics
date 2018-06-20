@@ -1,2 +1,2 @@
 # UWO
-# Under this repo I include all coding work I have done during my uwo years.
+# Under this repo I include all coding work regarding my research in theoretical physics.
